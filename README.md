@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="voltas.png" alt="Voltas Logo" width="200"/>
-</p>
-
 # Financial Management Project – Voltas Ltd.
+![Voltas](Voltas.png)
 
 This project is a comprehensive financial analysis of **Voltas Ltd.**, conducted as part of the MBA Business Analytics curriculum at the Delhi School of Management, DTU.
 
