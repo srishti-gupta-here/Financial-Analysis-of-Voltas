@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="voltas-logo.png" alt="Voltas Logo" width="200"/>
+  <img src="voltas.png" alt="Voltas Logo" width="200"/>
 </p>
 
 # Financial Management Project – Voltas Ltd.
