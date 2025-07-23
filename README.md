@@ -1,7 +1,7 @@
-# Financial Management Project – Voltas Ltd.
+# Financial Analysis of Voltas
 ![Voltas](Voltas.png)
 
-This project is a comprehensive financial analysis of **Voltas Ltd.**, conducted as part of the MBA Business Analytics curriculum at the Delhi School of Management, DTU.
+This project is a comprehensive financial analysis of **Voltas Ltd.**
 
 ## Objective
 To assess the financial health and strategic direction of Voltas Ltd. by applying core concepts of financial management, including valuation techniques, leverage analysis, and policy assessments.
