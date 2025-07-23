@@ -33,7 +33,7 @@ To assess the financial health and strategic direction of Voltas Ltd. by applyin
 
 ## File Structure
 
-- `Financial Management Project(1).xlsx` – Contains all financial projections, NPV calculations, ratio analysis, and charts.
+- `Financial Analysis.xlsx` – Contains all financial projections, NPV calculations, ratio analysis, and charts.
 
 ## Conclusion
 The analysis provided actionable insights into Voltas Ltd.’s investment potential, leverage risks, operational efficiency, and capital allocation policies. It also enhanced practical skills in financial modeling and strategic evaluation.
@@ -42,5 +42,4 @@ The analysis provided actionable insights into Voltas Ltd.’s investment potent
 
 **Author:** Srishti Gupta  
 **Contact:** gsrishti2003@gmail.com  
-**Institution:** Delhi School of Management, DTU
 
